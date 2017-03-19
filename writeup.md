@@ -1,5 +1,7 @@
 #**Finding Lane Lines on the Road** 
 
+---
+
 [//]: # (Image References)
 
 [image1]: ./lane_images/solidWhiteCurve.jpg 
